@@ -1,0 +1,6 @@
+{
+  "appTitle": "whatiflabs",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
